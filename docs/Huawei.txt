@@ -1,0 +1,251 @@
+Huawei (prononciation française : [wawɛj]; en chinois simplifié : 华为 ; chinois traditionnel : 華為 ; pinyin : Huáwéi ), officiellement Huawei Technologies Co., Ltd. (en chinois simplifié : 华为技术有限公司 ; chinois traditionnel : 華為技術有限公司 ; pinyin : Huáwéi jíshù yǒuxiàn gōngsī), est une entreprise chinoise fondée en 1987, dont le siège social se trouve à Shenzhen en Chine et qui fournit des solutions dans le secteur des technologies de l'information et de la communication (TIC).
+Le métier historique de Huawei est la fourniture de réseaux de télécommunication aux opérateurs : l'entreprise fournit des matériels, des logiciels et des prestations de services pour les réseaux de télécommunications des opérateurs et les réseaux informatiques des entreprises.
+Huawei en élargissant son marché est devenu un fournisseur de solutions numériques en terminaux, réseaux et cloud, pour les opérateurs, entreprises et consommateurs. Ses produits et solutions sont déployés dans plus de 170 pays. Il est le plus grand fabricant de matériel de télécommunication du monde.
+Huawei fait l'objet de nombreuses critiques, ce qui amène en particulier plusieurs pays à refuser le développement de la 5G par Huawei, au vu du risque d'espionnage estimé.
+
+
+Dénomination
+Huáwéi est un jeu de mots basé sur l’expression 中华有为 Zhōnghuá yǒuwéi – qui signifie « La Chine prometteuse ». Le fondateur l'a raccourci en « 華為 Huawei » : Le caractère 華 signifie notamment « Chine », mais peut aussi être utilisé comme adjectif pour signifier « beau », « splendide ». Le caractère 為 signifie « action » ou « travail fini ». Huáwéi lui-même en tant que mot dissyllabique peut donc être traduit en « bel ouvrage ».
+
+
+Histoire
+
+
+Création et développement
+
+L'entreprise a été créée en 1987 à Shenzhen, à l'époque zone économique spéciale développée à proximité de Hong Kong, par Ren Zhengfei, ancien colonel de l'Armée populaire de libération, membre du Parti communiste chinois, qui est devenu un magnat des télécommunications. Le premier produit commercialisé par Huawei en 1988 est le PABX, un commutateur pour les entreprises.
+
+
+Internationalisation
+En 1997, Huawei décroche son premier contrat à l’étranger et, en 2004, son premier gros contrat en Europe avec le fournisseur néerlandais Telfort (en).
+En 2003, Huawei s’installe en France, notamment à Boulogne-Billancourt et Issy-les-Moulineaux. Plus tard, le groupe ouvre une antenne à Lyon en 2011 puis un centre de recherche à Grenoble en 2018.
+En 2007, Huawei transfère son siège européen de Londres à Düsseldorf.
+Le 28 septembre 2007, Huawei Technologies et Bain Capital tentent de racheter le fabricant d'équipements réseau 3Com pour un montant de 2,2 milliards de dollars américains, mais l'offre est abandonnée à cause du veto du gouvernement américain pour des raisons de sécurité nationale, face aux menaces de cyber-espionnage venues de Chine.
+En 2009, Huawei met en œuvre le premier réseau LTE commercial dans le monde pour l’opérateur finno-suédois Telia Sonera, pour couvrir la ville d’Oslo en haut débit mobile.
+Depuis 2009, Huawei commercialise également des téléphones portables en marque propre, sous Android.
+
+
+Acteur majeur mondial
+En 2010, avec 19,81 milliards d’euros de chiffre d'affaires, Huawei devient le deuxième fournisseur mondial en réseaux de télécommunications, derrière Ericsson et devant Nokia Siemens Networks, Alcatel-Lucent, Cisco Systems et ZTE. Ceux-ci ont vu leurs parts de marché en Asie s'effriter et ont assisté à la montée en puissance du groupe chinois sur les marchés émergents et occidentaux.
+En 2010, Huawei réalise 65 % de son chiffre d'affaires à l'export, contre 60 % en 2009. Il s'élève à 185,2 milliards de yuans (27,36 milliards de dollars) en hausse de 24,2 % par rapport à 2009.
+En 2011, Huawei se développe sur le marché de terminaux et des solutions pour les entreprises (informatique en nuage, téléprésence, centre de données, sécurité…).
+En 2011, Huawei travaille avec 45 des 50 principaux opérateurs de télécommunication, et possède 110 000 collaborateurs dans 140 pays. Ces collaborateurs sont composés de 80 % d'ingénieurs avec une moyenne d'âge de 29 ans.
+En 2013, 70 % du chiffre d'affaires de Huawei est réalisé à l'international. Preuve de cette croissance, Huawei s'impose progressivement comme l'un des constructeurs de smartphones les plus importants. Au deuxième trimestre 2018, l'entreprise chinoise dépasse ainsi le géant Apple quant au nombre de smartphones vendus.
+Selon le cabinet Dell'Oro, en 2018, Huawei est le premier fabricant mondial d'équipements télécoms avec 31 % du marché (contre 29 % pour Ericsson et 23 % pour Nokia).
+En 2018, Huawei est le deuxième constructeur mondial de smartphones derrière Samsung et devant Apple.
+En 2018, Huawei doit se retirer du marché australien. En effet, les autorités australiennes ont exclu le chinois Huawei des contrats pour la mise en place de la future infrastructure 5G du pays.
+En 2019, Huawei ouvre un centre de cybersécurité à Bruxelles sur 1 000 m2, Il va présenter sa pratique en cybersécurité, de la chaîne d'approvisionnement à la recherche et développement en passant par les produits et les solutions Huawei. Les opérateurs de télécommunications auront la possibilité de tester et d'examiner ses matériels et auront accès au code source. Huawei possédait déjà deux centres de cybersécurité sur le sol européen : l'un à Londres, ouvert en 2010, et l'autre à Bonn en Allemagne, inauguré en 2018.
+En 2019, le groupe Huawei est en situation de quasi-monopole sur le continent africain. Il y dispose d'environ 70 % des parts du marché des infrastructures. Pareille domination (à laquelle ont largement contribué les facilités de financement fournis par les banques publiques d’État aux gouvernements ou opérateurs de télécommunications africains) place l’équipementier dans une position idéale pour le déploiement de la 5G en Afrique : des premiers contrats ont d’ailleurs été signés avec l’Afrique du Sud, le Kenya et l’Égypte et, en date de juillet 2020, aucun gouvernement africain n’a encore prononcé la moindre interdiction contre Huawei.
+En janvier 2020, le Royaume-Uni pose des garde-fous sur le déploiement de la 5G par Huawei, aucun équipement sur les cœurs de réseaux, part de marché limitée à 35 % et aucune présence sur les sites critiques, comme les centrales nucléaires.
+En octobre 2020, Huawei ouvre un centre de recherche et développement (R&D) consacré à la recherche fondamentale en mathématiques à Paris en France.
+Au second trimestre 2020, Huawei détrône Samsung et devient le 1er vendeur mondial de smartphones.
+En novembre 2020, Huawei vend sa filiale Honor, comprenant la marque, les usines et toutes les infrastructures affiliées, pour l'équivalent de 15,2 milliards de dollars à un consortium. La marque Honor représente 26 % des ventes de Huawei.
+En décembre 2020, Huawei annonce l'installation à Brumath en Alsace d'un site de production d’équipements liés notamment à la technologie 5G qui sera sa première usine de production hors de Chine . Cette implantation est soutenue à hauteur de 800 000 € par la région Grand Est. Estimé entre 200 et 300 millions d’euros, l’investissement est à la hauteur de l’ambition du géant chinois : Plus de 50 000 m2 de bâtiments construits, 300 salariés et jusqu’à 500 à terme, avec une production annuelle chiffrée à un milliard d’euros. Mais la production d'antennes 4G et 5G, ne commencera pas le 1er janvier 2026 et le géant chinois, qui a perdu beaucoup de parts de marché en Europe, envisage de revendre sans jamais avoir ouvert.
+En 2022 Huawei, devenu le 5e fournisseur mondial des services cloud derrière Amazon, Alibaba, Microsoft, Google, installe son infrastructure Cloud européen en Irlande. L'entreprise travaille dans ce domaine avec les opérateurs de télécommunications: Deutsche Telekom en Allemagne, Telefonica en Espagne et Orange en France. Ce dernier commercialise un Cloud privé hautement sécurisé baptisé Flexible Engine en partenariat avec Huawei.
+En 2024, la société Huawei, entreprise privée non cotée en Bourse, emploie plus de 200 000 personnes dans plus de 170 pays et régions.
+L’entreprise revendique une part de 20 % du marché français des infrastructures télécoms.
+En 2025, la publication « Madrid Yearly Review 2024 » de l’Organisation Mondiale de la Propriété Intellectuelle classe Huawei n°8 en terme de volume d’enregistrement de noms de marque selon le système de Madrid, avec 86 applications en 2024.
+
+
+Guerre commerciale entre les États-Unis et la Chine
+La directrice financière de Huawei, Meng Wanzhou qui est également la fille du fondateur Ren Zhengfei est arrêtée au Canada en décembre 2018 sur requête des autorités américaines qui l'accusent de fraude bancaire et de fraude électronique.
+Le 28 janvier 2019, le secrétaire à la Sécurité intérieure des États-Unis Kirstjen Nielsen, le procureur général des États-Unis Matthew Whitaker, le secrétaire au Commerce Wilbur Ross, le directeur du FBI Christopher Wray et les procureurs fédéraux annoncent vingt-trois chefs d'accusation (dont fraude bancaire et financière, blanchiment d'argent, complot visant à escroquer les États-Unis, vol de technologie des secrets commerciaux, prime offerte aux travailleurs qui volaient des informations confidentielles à des sociétés du monde entier, fraude par fil, entrave à l'exercice de la justice et violations de sanctions) contre Meng Wanzhou, Huawei, Huawei Device USA Inc. et la filiale iranienne de Huawei, Skycom. Le ministère a également déposé une demande d'extradition formelle concernant Meng auprès des autorités canadiennes le même jour.
+Les États-Unis exercent au cours de l’année 2019 des pressions contre des dizaines de pays afin de les dissuader d'acheter du matériel de Huawei. Les services de renseignement américains se refusent toutefois à expliquer précisément en quoi le groupe chinois constituerait une menace pour la sécurité des réseaux de télécommunication mondiaux. D'après le chercheur américain en communication Dan Schiller, « la cause de cette panique est tout autre : alors que les États-Unis sont contraints d’abandonner leur leadership dans la mise en place des technologies réseaux de nouvelle génération, ce sont eux qui craignent de perdre l’accès à ces systèmes - un accès qu’ils s’étaient assuré grâce à une coopération de longue date entre le renseignement et les industriels. »
+En 2019, Huawei est exclu de plusieurs appels d'offres notamment concernant les cœurs de réseaux, où ses équipements sont dans certains pays occidentaux démontés. En mai 2019, Donald Trump annonce l'interdiction pour Huawei de vendre des équipements de réseaux aux États-Unis.
+Dans le cadre de la guerre commerciale entre les États-Unis et la Chine et du soupçon envers Huawei de laisser Pékin espionner les télécommunications, le président américain Donald Trump interdit aux groupes américains de commercer dans les télécommunications auprès de sociétés étrangères jugées dangereuses pour la sécurité nationale, et Google suspend ses relations avec l'entreprise chinoise, utilisatrice de son système Android. Il en va de même pour Intel, Qualcomm et Broadcom. Il faut noter que Huawei avait déjà anticipé un tel scénario et était déjà en train de développer une alternative à Android, un nouveau système d’exploitation sous le nom de code de « HarmonyOS » depuis 2012. En décembre 2019, des analyses effectuées par The Wall Steet Journal montrent que Huawei a moins recours aux fournisseurs américains depuis mai et élimine l'utilisation de puces américaines dans les nouveaux modèles de smartphones.
+Le 18 novembre 2019, les États-Unis annoncent une prolongation de 90 jours de la licence provisoire accordée à Huawei (la troisième prolongation après celles de mai et août). Toutefois, malgré ce sursis, les smartphones Huawei ne peuvent toujours pas bénéficier de la certification Android et donc des applications Google.
+En février 2020, de nouveaux chefs d'accusation pour vol de secrets industriels s'ajoutant à ceux relatifs au commerce avec l'Iran et la Corée du Nord sont prononcés contre Huawei.
+En mai 2020, les États-Unis adoptent de nouvelles mesures interdisant la fourniture de composants électroniques semi-conducteurs à Huawei, dès le mois de septembre, sur la base de ses lois d'extraterritorialité, cet embargo devient mondial. TSMC (Taiwan Semiconductors Manufacturers), devra cesser ses fournitures. En parallèle du conflit sino-américain, d'autres nations prennent position et mettent à mal la place de Huawei sur l'échiquier mondial dans le déploiement de la 5G. En juillet 2020, la Grande-Bretagne annonce ainsi renoncer à continuer l'âge d'or des relations sino-britanniques. Le 14 juillet 2020, le gouvernement britannique annonce ainsi bannir Huawei de tous ses projets de télécommunications avec une prise d'effet à compter du 21 janvier 2021. La France confirme quant à elle que Huawei pourra investir sur son territoire.
+En 2021, malgré le changement d'administration, Huawei reste visé par les États-Unis en tant que menace pour la sécurité intérieure. Huawei avait appelé le nouveau gouvernement à « une politique d’ouverture ».
+Au premier semestre 2021, Huawei voit son chiffre d'affaires baisser de 29,4 %, et celui de sa branche mobile de 47 %, à la suite des sanctions américaines. D'après le cabinet d’études Canalys, Huawei ne figure plus parmi les cinq premiers mondiaux du secteur des smartphones. Le cabinet Counterpoint, au premier trimestre de 2021 ne lui accorde plus que 4% de part de marché, contre 20 % au deuxième trimestre de 2020.
+En novembre 2021, Huawei annonce la vente de ses activités dans les serveurs à la suite des sanctions américaines.
+En 2024, Huawei, malgré les sanctions américaines qui ont continué, reste un acteur majeur du marché de la téléphonie mobile en Chine et des équipements de télécommunications avec une bonne situation économique.
+
+
+Marchés, produits et solutions
+
+Huawei Technologies décline son offre à destination de trois types de marchés : opérateurs, entreprises, grand public.
+
+
+Opérateurs
+L'entreprise conçoit des équipements de télécommunications (antennes-relais, DSLAM, routeurs, commutateurs) pour les opérateurs de télécommunications.
+Huawei accompagne les opérateurs dans la migration de leurs infrastructures réseaux vers des technologies plus récentes (par exemple pour les réseaux mobiles GSM vers successivement la 3G, la 4G (LTE), la 5G), ce qui permet de remplacer les équipementiers en place.
+En matière de convergence des réseaux, Huawei construit le produit Single RAN (Radio Access Network), qui a pour fonction de fusionner toutes les capacités de communication radio d’un réseau cellulaire (GSM, UMTS HSPA+, LTE…) en un seul équipement.
+La pose des câbles sous-marins de télécommunications constitue un nouvel axe de développement stratégique de Huawei, car jusqu'à présent, seules trois entreprises (ASN, TE Subcom et NEC) contrôlaient la majeure partie de ce marché mondial, sachant que 99 % du trafic internet passe par ces câbles dont 80 % du flux transite par les États-Unis quelle qu'en soit sa destination. En difficulté depuis son interdiction d’accéder aux technologies américaines, Huawei vend sa participation majoritaire dans Huawei Marine, joint-venture avec le britannique Global Marine Systems, sa filiale du secteur câbles sous-marins, qui avait vu le jour en 2008. Huawei cède ses 51 % à Hengtong Optic-Eletric, spécialiste de la fibre optique et du câblage. Huawei Marine a réalisé à ce jour de 90 projets du Pacifique à l'Atlantique.
+
+
+Entreprises
+Pour les entreprises, Huawei développe des solutions de bout en bout : commutateur PABX, cloud computing, communications unifiées, et solutions pour les gouvernements : Huawei 4G eLTE.
+En 2015, Huawei et Alstom ont finalisé un projet pilote à Valenciennes consistant à développer une technologie de réseau haut débit de radiocommunication multiservice LTE 4G destinée à l'exploitation la signalisation embarquée des métros. Ce système prend en charge les messages vocaux et vidéo essentiels, le système CBTC (contrôle des trains basé sur la communication en réseau) et des applications de données à large bande comme les systèmes d’information passagers et la diffusion continue en direct d’images en TVCF.
+En mars 2020, Huawei se positionne sur le marché des hôpitaux en signant à Paris un accord-cadre avec Schnell Li-Fi, un « spin-off » de l'institut allemand Fraunhofer. Les deux sociétés vont proposer aux hôpitaux une solution mondiale pour les salles opérationnelles basée sur le Li-Fi, une technologie similaire au Wi-Fi, mais plus sécurisée, car elle utilise la lumière pour fournir du très haut débit.
+
+
+Grand public
+
+Pour le grand public, Huawei fabrique des téléphones mobiles. Ses smartphones sont équipés du système d'exploitation Android, mais également des clés 3G, tablettes, modems hybrides 3G / Wi‑Fi…
+Présent dans les entreprises européennes en coentreprise depuis quelques années, Huawei décide en décembre 2009 de s'implanter avec sa propre marque sur le marché grand public français en plaçant le U8230 équipé d'Android chez Bouygues Telecom.
+En 2011, sort le Huawei Sonic (U8650), également sous Android 2.3, et le Huawei Vision (U8850).
+Leader mondial des ventes de modems USB 3G / 3G+, Huawei développe en 2009 le plus petit modem au monde, le i-Mo.
+Huawei construit la première tablette tactile sous Android 3, appelé aussi Android Honeycomb, ainsi que des clés 3G distribuées par les grands opérateurs comme Orange, SFR, et Bouygues Telecom. C’est le cas des clés 3G Huawei E160, Huawei E1552 ou Huawei E5823 vendu chez Orange avec le nom Domino.
+Les années 2018 à 2020 voient arriver respectivement les smartphones :
+
+en 2018 : les P20 et P20 Pro ;
+en 2019 : les P30 et P30 Pro ;
+en 2020 : les P40 et P40 Pro.
+Ces modèles entendent se spécialiser en photographie et vidéo FHD et 4K, ainsi qu'en séquences de ralenti 240 fps jusqu'à 10 secondes.
+Toutefois, une décision de Donald Trump interdit dès 2019 à Google toute fourniture de produits et services à Huawei, dont le Play Store, les applications Google, Google Maps et Gmail, et surtout YouTube. Huawei s'adapte en proposant le moteur de recherche français Qwant, son propre service de distribution de logiciels et l'usage du service français Dailymotion. Après avoir développé son propre système d'exploitation pour mobile pour se passer d'Android et son « app store » maison AppGallery pour compenser la perte du Play Store de Google, le groupe chinois lance Petal Maps, son propre service de navigation sur smartphone, disponible dans 79 langues.
+En mars 2020, Huawei lance son service de streaming de musique en Europe, concurrençant Spotify : Huawei Music.
+En juillet 2020, Huawei lance Sound X, une collaboration avec le fabricant français Devialet[pourquoi ?].
+En novembre 2020, l'entreprise annonce le lancement de la version bêta de Harmony OS pour le mois de décembre de la même année. Il s'agit d'un nouveau système d'exploitation produit par Huawei dans le but de concurrencer Android.
+
+
+SoC ARM
+
+Le 27 février 2012, Huawei annonce au MWC de Barcelone la sortie de téléphones dont les processeurs sont coproduits avec l'entreprise HiSilicon, filiale de Huawei. Les deux entreprises coopèrent depuis octobre 2004 à la production de processeurs d'architecture ARM Cortex A9, Cortex A7 et Cortex A15, sous licence de propriété intellectuelle d'ARM.
+Les premiers téléphones utilisant le K3v2 sont les Huawei Ascend D1 Quad et Quad XL annoncés avec vingt jours d'autonomie en mode veille et un processeur Cortex A9 MP 4 cœurs, accompagné d'un GPU 16 cœurs.
+Au même moment, en 2012, la tablette Huawei MediaPad 10 FHD utilisant le même processeur est présentée.
+
+
+Produits Honor
+
+Honor était une filiale de Huawei Technologies Co. Ltd, créée le 13 décembre 2013. Elle arrive en France en novembre 2014 avec le Honor 6.
+Honor est une marque d’entrée de gamme destinée principalement aux jeunes et aux petits budgets, qui vend quelque 70 millions de téléphones par an. La gamme d'appareils Honor comprend des smartphones, des ordinateurs portables, des tablettes et des montres intelligentes.
+Honor a pour objectif de vendre des smartphones essentiellement sur Internet, sans avoir de budget publicité élevé, ce qui lui permet de proposer des smartphones performants à prix compétitifs.
+La marque est présente lors d'évènements qui fédèrent une population jeune, tels le FISE et les ColorRun.
+Fin 2020, mis en difficulté par les sanctions américaines, Huawei se sépare de sa filiale Honor (marque, infrastructures, affiliées). La marque représentait 26 % des ventes de Huawei au moment de sa vente à Shenzhen Zhixin New Information Technology pour l'équivalent de 15,2 milliards de dollars.
+
+
+L'entreprise
+
+
+Recherche et développement
+En 2010, Huawei ouvre un centre de R&D à Shanghai qui s'étend sur 227 000 m2 et compte 8 000 ingénieurs.
+
+Le département R&D de Huawei emploie environ 70 000 personnes dans le monde, soit un peu plus de 45 % de la masse salariale.
+Fin 2020, Huawei compte vingt-trois centres de R&D en Europe, dont six en France partagés entre Boulogne-Billancourt, Sophia-Antipolis et Paris 7e.
+Les champs d’investissement en R&D de Huawei sont les suivants : technologies clés, architectures, standards dans les TIC.
+En 2008, Huawei est à la tête des dépôts de brevets à l’OMPI avec 1 737 brevets et est depuis resté dans le trio en tête des déposants de brevets. Cependant, il s'agit de demande de brevets, et non d'octrois de brevets.
+En 2009, Huawei se place au deuxième rang avec 1 847 dépôts de brevets. L’entreprise détient 10 % des brevets du LTE et de la 4G, 15 % en 2011.
+En 2012, Huawei dépose 41 948 brevets en Chine et 14 494 en dehors de Chine. Parmi ces dépôts de brevets, 30 240 ont été obtenus. En 2012 toujours, les dépenses en R&D de Huawei atteignent 30 090 millions de yuans, soit 14 % du revenu annuel. 1 300 millions de yuans ont été investis dans la recherche.
+En 2019, Huawei consacre 15 % de ses revenus à la R&D, soit dix-huit milliards de dollars, ce qui correspond au cinquième budget mondial en R&D. Parmi les chercheurs figurent 700 mathématiciens, 800 physiciens, 120 chimistes, 6 000 à 7 000 experts et plus de 60 000 ingénieurs dans différents domaines.
+En 2025, la publication « PCT Yearly Review 2025 » de l’Organisation mondiale de la propriété intellectuelle classe Huawei no 1 en termes de volume de demandes de brevet PCT, avec 6600 applications en 2024.
+
+
+Structure financière
+Huawei est une entreprise privée dont le capital est détenu par ses salariés à travers un système de stock option et par conséquent n'est pas cotée en bourse. Dispensée juridiquement de présenter ses résultats, l'entreprise publie toutefois sur son site web un rapport annuel d'activité.
+Huawei compte, en tout et pour tout, deux actionnaires : Ren Zhengfei, qui détient 1,18 % du capital et le « syndicat » des employés qui possède le reste, soit 98,82 %.
+Selon la Central Intelligence Agency (CIA), Huawei reçoit un financement de l'appareil sécuritaire de l'État chinois.
+Pour contourner les monopoles d'État accordés par les opérateurs de téléphone à leurs fournisseurs étatiques, Ren Zhengfei a eu l'idée de faire entrer certains de ses clients dans le capital de Huawei.[réf. souhaitée].
+
+
+Chiffre d'affaires
+En 2013, le chiffre d'affaires mondial de Huawei est 40 milliards de dollars, en augmentation de 8,5 % par rapport à 2012. Son bénéfice net de 3,47 milliards de dollars a crû de 34,4 % par rapport à 2012.
+En 2015, le chiffre d’affaires de Huawei a atteint 395 milliards de CNY (60,8 milliards de dollars américains), soit une augmentation de 37 % par rapport à la même époque de l’année précédente.
+En 2018, le chiffre d'affaires est estimé à 93,5 milliards d'euros.
+En 2020, le chiffre d'affaires atteint 115,9 milliards d'euros (891,4 milliards de yuans), soit une croissance de 3,8 % par rapport à 2019. Son bénéfice net est, en hausse de 3,2 %,est lui estimé à 8,39 milliards d'euros (64,6 milliards de yuans).
+Huawei a réussi à se positionner en tant que « leader mondial des ventes de smartphones » au cours du deuxième trimestre de 2020 en surpassant son concurrent coréen. Selon les statistiques officielles publiées par l'IDC, Huawei a vendu 55,8 millions d'appareils au cours de cette période, ce qui représente une part de marché de 20,2% des smartphones. Les ventes intérieures de Huawei en Chine représentent une part de marché de 45% des smartphones. De plus, les statistiques de l'IDC montrent que Huawei a réalisé la majorité de ses bénéfices dans la catégorie des produits haut de gamme.
+
+
+Critiques et controverses
+
+
+Espionnage
+En 2014 un jury décide de dédommager T-Mobile, à hauteur de 4,8 millions de dollars, concernant un espionnage du robot Tappy développé par l'opérateur. En 2018, Le Monde indique que des serveurs installés par Huawei au siège de l'Union africaine, à Addis-Abeba, ont permis de transférer pendant cinq ans des données confidentielles à la Chine.
+Plusieurs pays de l’Organisation du traité de l'Atlantique nord (OTAN) refusent le développement de la 5G par Huawei à cause du risque d'espionnage que celle-ci pourrait représenter. Le fondateur de l’entreprise, Ren Zhengfei, dément ces risques d’espionnage : « J'aime mon pays, je soutiens le Parti communiste. Mais je ne ferai jamais rien pour nuire au monde ». À titre d'exemple, la Turquie refuse l'utilisation des produits et service de l'entreprise chinoise concernant ses réseaux informatiques militaires.
+En 2019, Huawei est soupçonné d’un vol massif de données aux Pays-Bas. Selon la presse néerlandaise, les services de renseignement du royaume jugeraient « non souhaitable » l’ouverture du marché national de la 5G au groupe chinois. En avril 2021, le quotidien De Volkskrant confirme ces accusations d'espionnage, Huawei aurait eu accès aux données de l’opérateur KPN et aux conversations de l’ex-Premier ministre Jan Peter Balkenende.
+En 2019, il est révélé que Huawei a tenté d'espionner l'entreprise californienne Akhan Semiconductor, ce qui donne lieu à une enquête du FBI. À la suite des accusations d’espionnage, les États-Unis sanctionnent le groupe, puis Google s'en distancie. Le cœur des accusations porte sur les équipements permettant de déployer aux États-Unis le réseau de données sans fil 5G. Ils annoncent l'interdiction des infrastructures téléphoniques Huawei sur le territoire, considérées comme une menace en matière de sécurité nationale. Dans ce conflit épineux qui mêle sécurité nationale et guerre économique, l'Europe joue le balancier entre la Chine et les États-Unis, ce qui permettrait de renforcer la place de la France, mais la soumet aux pressions des 2 parties.
+Le 14 août 2019, The Wall Street Journal affirme que des employés de Huawei ont aidé les gouvernements de Zambie, d'Ouganda et d'Algérie à espionner leurs citoyens.
+Le 27 décembre 2019, la Commission européenne émet des réserves sur la participation de Huawei au déploiement de la 5G en Europe en raison des risques d'espionnage et de détournement des données des citoyens ou des entreprises. La loi chinoise oblige en effet les entreprises comme Huawei à transmettre des informations aux services secrets chinois.
+En juillet 2020, le Royaume-Uni décide d'exclure Huawei de son réseau 5G. L’achat de nouveaux équipements de l'entreprise sera interdit dès la fin 2020 et les équipements existants devront être retirés d’ici à 2027, a déclaré le ministre chargé de la culture et du numérique, Oliver Dowden, à la Chambre des communes à l’issue d’une réunion du Conseil de sécurité nationale (NSC) présidée par le Premier ministre conservateur Boris Johnson.
+Huawei va installer une usine de production en Alsace, le site produira des équipements liés à la technologie 5G. Cette implantation soulève aussi quelques questions en matière de possibilités d'espionnage dues à la proximité de sites sensibles.
+Le 17 avril 2021, le quotidien néerlandais De Volksrant relaie un rapport interne de l'entreprise Capgemini, datant de 2010, qui souligne que Huawei aurait espionné l'opérateur néerlandais KPN. Selon ce rapport, Huawei a pu écouter des échanges téléphoniques passés sur les lignes de KPN, dont ceux du Premier ministre de l'époque, Jan Peter Balkenende, et de ses membres du Gouvernement. Si KPN ne nie pas l'existence de ce rapport, l'entreprise réfute l'idée qu'un de ses fournisseurs ait disposé d'un « accès non autorisé, non contrôlé et illimité à ses réseaux et systèmes ».
+
+
+Violation de propriété intellectuelle
+En 2002, le groupe américain Cisco Systems accuse Huawei d’avoir dérobé du code source en lien à ses routeurs. En janvier 2003, Cisco Systems dépose une plainte en justice contre Huawei pour violation de la propriété intellectuelle, concernant essentiellement une version du logiciel VRP, utilisé dans certains produits de routage, et de manuels d’utilisation, contenus dans quelques produits. En juin 2003, la cour du Texas a émis un jugement préliminaire contre Huawei. En octobre 2003, Cisco Systems annonce la suspension de son action afin de permettre aux deux sociétés de trouver un accord à l'amiable. Entre-temps, Huawei s'est engagé à respecter une décision de justice préliminaire lui ordonnant d'effectuer quelques modifications sur ses routeurs et ses commutateurs.
+De manière plus générale, Huawei a souvent fait l'objet de critiques selon lesquelles le groupe chinois en serait resté au stade de la copie des technologies des concurrents occidentaux. Les investissements du groupe chinois dans la recherche sont élevés et leur réalité ne fait plus de doute pour la plupart des observateurs[réf. souhaitée].
+
+
+Vie privée et contrôle social
+Huawei développe et commercialise, à partir de son expérience en Chine, son concept de ville sûre, une extension de la ville intelligente. Elle repose sur une infrastructure de télécommunications de nouvelle génération (5G), la capacité de contrôler à distance des milliers de types d'objets connectés (par exemple : feux de circulation, panneaux d'affichage, signalisations diverses), un déploiement de caméras de surveillances connectées au réseau et, potentiellement (car déjà déployées en Chine), des applications d'intelligence artificielle sur les images (reconnaissance des plaques minéralogiques, reconnaissance faciale, etc.). Toutes ces technologies combinées peuvent mener à un contrôle social très développé mettant en péril les libertés individuelles (notation sociale base d'un système de crédit social, « pilori » numérique sur écran d'affichage). La nocivité effective des villes sûres est totalement dépendante des autorités en charge et met en alerte les associations de défense des droits de l’homme et les autorités indépendantes de contrôle telle la Commission nationale de l'informatique et des libertés (CNIL) en France.
+En France, la mairie de Valenciennes se laisse séduire en 2017 par un cadeau de l'équipementier Huawei pouvant représenter 2 millions d'euros, à charge pour la municipalité d'en définir son usage. Huawei a pu expérimenter librement son système de « caméras intelligentes » dans la ville de Valenciennes grâce à un accord passé avec le maire Jean-Louis Borloo ; quelques années plus tard, en 2016, celui-ci est nommé au conseil d'administration de Huawei France, il est administrateur de l’équipementier pendant deux ans, jusqu’à fin 2018. Il renonce à prendre la présidence du conseil d'administration qui lui est proposée en 2019.
+En 2014, Huawei a offert à l'Ouganda 20 caméras de surveillance équipées de technologies de reconnaissance faciale d’une valeur de 702 000 euros. Les autorités ougandaises ont, par la suite, attribué à Huawei déjà fournisseur de son réseau de télécommunications, un marché de caméras de surveillance. Ces outils de surveillance permettent de renforcer l'appareil répressif de l'état. Les pouvoirs en place ont recouru à la société chinoise Huawei pour déployer ces systèmes de « safe city ». Les images permettent une reconnaissance faciale et sont transmises en temps réel aux services de sécurité.
+Une large majorité des projets de « villes intelligentes » construites en Afrique par la Chine le sont à l’initiative de Huawei qui, en mai 2018, a lancé un fonds de 1,5 Md USD pour soutenir le développement des « villes intelligentes » sur le continent.
+
+
+Dumping
+En 2013, le commissaire européen au commerce extérieur Karel De Gucht affirme que les équipementiers chinois Huawei et ZTE « pratiquent le dumping de leurs produits sur le marché européen ».
+La même année, Fleur Pellerin, alors ministre française de l'Innovation et de l'Économie numérique, déclare lors d’un sommet du groupe de réflexion IDATE sur les télécoms, que « l’Europe a lancé des enquêtes sur des pratiques de dumping ou d’aides d’État, mais nous n’avons pas de données pour les prouver. ».
+
+
+Corruption
+En 2014, Huawei identifie 116 employés suspectés d'avoir participé à un système de corruption entre commerciaux, au sein même de l'entreprise, et distributeurs externes. À l'issue de l'enquête interne, quatre personnes ont été remises à la justice.
+Les pots-de-vin étaient versés par les distributeurs aux commerciaux. Ces derniers autorisaient de plus grand rabais dans les services de Huawei ce qui permettait aux distributeurs de toucher des bénéfices plus importants.
+Roland Sladek, porte-parole du groupe, a précisé : « Sur le marché des entreprises, Huawei met strictement en place une politique de canaux de distribution ouverts, transparents et stables, afin d'instaurer équité et justice. Nous ne faisons preuve d'aucune tolérance à l'égard de pratiques qui ne respecteraient pas les standards que nous nous imposons ».
+En janvier 2024, en France les bureaux français de Huawei ont été perquisitionnés, dans une procédure portant sur des soupçons d’atteintes à la probité. Les atteintes à la probité regroupent les infractions telles que la corruption, le trafic d’influence et la prise illégale d’intérêts.
+
+
+Achat d'influence politique et « soft-power »
+En 2010, Huawei embauche François Quentin, ancien cadre de Thales (groupe de hautes technologies spécialisé dans la défense) au poste de président du conseil d'administration de Huawei France, qui entame une politique offensive contre les détracteurs de l'entreprise, doublée d'une entreprise de séduction de masse de politiciens, journalistes et décideurs, grâce à des cadeaux mirobolants.
+En effet, pour assurer son influence sur les décisions politico-économiques, Huawei recrute activement, et à prix d'or, d'anciens politiciens et diplomates au large carnet d'adresses, parfois aux limites des règles de déontologie, tels Jean-Louis Borloo, Jean-Marie Le Guen, Gérard Errera ou Jacques Biot. Ainsi, selon un communicant interrogé par Le Canard Enchaîné, « Je ne connais pas une grande boîte de lobbying ou un seul politique reconverti dans le business qui n'ait pas été approché ou contacté par Huawei ».
+Ainsi, Gérard Errera, élevé à la dignité d'Ambassadeur de France en 2008, ex-secrétaire général des Affaires étrangères, ex-ambassadeur au Royaume-Uni, siège au comité consultatif de Huawei International.
+L'ancien ministre Jean-Louis Borloo a été administrateur de l’équipementier Huawei Technologies, de 2016 à fin 2018. Il est de retour en juin 2019 jusqu'en mai 2020 en tant que président de la filiale française de Huawei, pour une rémunération annuelle de 250 000 €. En septembre 2020, l'ex-secrétaire d'État Jean-Marie Le Guen lui succède au conseil d'administration de Huawei France.
+En octobre 2019, l'ancien directeur de l'École polytechnique et ancien conseiller technologies auprès du Premier ministre français Jacques Biot est nommé administrateur chez Huawei France. En novembre 2020 il devient président du conseil d'administration de Huawei France. Son parcours en cabinet ministériel et son appartenance au corps X-Mines permettront à Huawei de promouvoir sa stratégie à haut niveau.
+De nombreux scientifiques sont également recrutés ou sponsorisés, que ce soit directement (comme les deux lauréats de la médaille Fields, Pierre-Louis Lions et Cédric Villani) ou indirectement, puisque Huawei a financé six centres de recherches en mathématiques en France, comme le « Centre de recherches Lagrange en mathématiques et calcul » (dirigé par Merouane Debbah, passé de Centrale à Huawei France), et abonde également les finances d'autres laboratoires français comme l'Institut des Hautes Études Scientifiques (membre du campus Paris-Saclay). En mai 2021, dans une tribune dans le Monde, un collectif de scientifiques appelle ainsi leurs collègues chercheurs en mathématiques et informatique à ne pas s’impliquer dans les activités du centre Lagrange, compte tenu notamment de l'implication directe de la firme dans la répression au Xinjiang.
+Face à ce lobbying, un « dispositif national de veille et d'action contre l'ingérence de Huawei » (baptisé « cerbère ») a été créé par le gouvernement français, piloté par les ministères de l’Économie et des Affaires Étrangères, avec l'appui des services de renseignement.
+
+
+Campagnes de désinformation
+Début 2021, un réseau de faux comptes Twitter est démantelé et Huawei annonce l'ouverture d'une enquête interne, notamment après la publication d'un rapport publié par une société d'intelligence artificielle, spécialisée dans les faux comptes sur les médias sociaux et la désinformation : Graphika. Les faux comptes ont servi à amplifier la diffusion d'articles sponsorisés en faveur de la technologie 5G proposée par l'équipementier, mais également à dénigrer les opposants à la marque et accuser de corruption les plans politiques en sa défaveur.
+
+
+Travail des enfants
+En 2014, Un reportage du magazine Cash Investigation sur France 2 révèle le travail des enfants, y compris la nuit, dans l'usine d'un sous-traitant de Huawei à Nanchang. Interrogé par les journalistes de L'Usine nouvelle, François Quentin, président du conseil d'administration de Huawei France, menace la présentatrice de Cash Investigation, Élise Lucet : « J'ai activé tous mes réseaux et Madame Lucet n'aura plus aucun grand patron en interview, sauf ceux qui veulent des sensations extrêmes ou des cours de media training ! ». Quelques jours plus tard, il publie sur son profil Twitter : « Je n'ai pas l'intention de porter atteinte à la réputation de l'équipe de Cash Investigation et regrette sincèrement ces propos mal exprimés. ». Huawei annonce par la suite avoir décidé de cesser de travailler avec le sous-traitant concerné.
+
+
+Environnement
+En 2017, Greenpeace reproche à Huawei sa conduite sur les questions environnementales. Si dans sa communication l'entreprise soutient les initiatives gouvernementales chinoises sur l’environnement, elle ne livre aucune donnée sur ses propres produits et ne semble pas conduire de politique industrielle liée au recyclage.
+
+
+Rupture de partenariats
+En décembre 2020, le footballeur Antoine Griezmann rompt son contrat avec Huawei, accusé de participer à la surveillance des Ouïgours. En juin 2021 à la suite de la mobilisation d'associations et d'artistes, le journal Les Inrockuptibles annule à son tour un partenariat avec l’équipementier chinois conclu pour son festival organisé à l’Olympia.
+
+
+Obsolescence
+Un étude datée du 19 août 2021, explique comment Huawei, pour combler une faille de sécurité, a bloqué l'accès au mode DFU de certains de ses appareils. Cela implique que si le système d'exploitation devient corrompu sur ces téléphones, il n'y aucune solution de réparation.
+
+
+Notes et références
+
+
+Note
+
+
+Références
+
+
+Voir aussi
+
+
+Articles connexes
+Meng Wanzhou
+HarmonyOS
+Honor
+Télécommunications en Chine
+Opérateur de télécommunications
+Union internationale des télécommunications
+5G
+
+
+Liens externes
+
+Site officiel
+
+Ressource relative aux organisations : Registre de transparence de l'UE 
+Ressource relative à plusieurs domaines : Radio France 
+Ressource relative à l'audiovisuel : France 24 
+Ressource relative à la recherche : CrossRef  
+
+Romain Besnainou, « Qui a peur de Huawei ? », sur france.tv, 14 janvier 2020.
+
+ Portail des entreprises   Portail des télécommunications   Portail de l’informatique   Portail de la Chine
